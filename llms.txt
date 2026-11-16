@@ -1,0 +1,28 @@
+# Erika | Bounce Fit Boots
+
+> Rebound boots (jumping boots) fitness dancing classes in Cairo, Egypt, coached by Erika Szenes, a Hungarian international fitness coach. Tagline: "Where joy meets power."
+
+## Key facts
+- Brand: Erika | Bounce Fit Boots (also written Boots Bounce Fit, Bounce Fit Boots)
+- Coach: Erika Szenes, Hungarian international fitness coach and former dancer
+- Experience: 20+ years in fitness and wellness, 16+ years on rebound boots, in Cairo since 2012
+- Languages: English, Hungarian, Arabic
+- What: 60-minute fitness dancing classes on rebound boots (also called jumping boots, bounce boots, bounce fit). All levels; every class starts with basic movements.
+- Music: Masry, Latin and remixes
+- Locations and times (Africa/Cairo time):
+  - New Cairo: Sunday and Tuesday, 6 PM, 7 PM and 8 PM
+  - Heliopolis: Monday and Wednesday, 6 PM, 7 PM and 8 PM
+- Boots: provided in sizes S, M and L; reserve your size when booking
+- Coming soon: The Bounce Run (outdoor run on rebound boots) and CheerBounce (cheer moves on rebound boots); waitlists open
+
+## Pages
+- [Home](https://wai-solutions.github.io/erika-bounce-fit-boots/): story, class flow, schedule, community, FAQ
+- [Book a class](https://wai-solutions.github.io/erika-bounce-fit-boots/booking.html): choose studio, day, hour and boots size; join event waitlists
+
+## Social
+- Instagram: https://www.instagram.com/erikaszenes/
+- TikTok: https://www.tiktok.com/@erikaszenes.bouncefit
+- Facebook: https://www.facebook.com/ErikaSzenes
+
+## Arabic keywords
+كلاسات ريباوند بوتس، جامبنج بوتس، بوتس القفز، باونس فيت، رقص فتنس، التجمع الخامس، مصر الجديدة، القاهرة
