@@ -774,7 +774,7 @@ html.static [data-reveal]{opacity:1;transform:none}
 <nav class="mnav" id="mnav" aria-label="Main menu">
   <div class="links">
     <svg class="m-logo" aria-hidden="true"><use href="#lg-h"/></svg>
-    <a href="#intro">Story</a><a href="#love">Why you’ll love it</a><a href="#class">Your class</a><a href="#how">The method</a><a href="#schedule">Evenings</a><a href="#community">Community</a><a href="#faq">Questions</a><a href="booking.html">Book your class</a>
+    <a href="#intro">Story</a><a href="#love">Why you’ll love it</a><a href="#class">Your class</a><a href="#how">Your progress</a><a href="#schedule">Evenings</a><a href="#community">Community</a><a href="#faq">Questions</a><a href="booking.html">Book your class</a>
   </div>
   <div class="side"><img src="img/outdoor-run.jpg" alt="" loading="lazy"></div>
   <button class="menu-btn close" id="menuClose" style="color:#fff"><i><b style="transform:translateY(3px) rotate(45deg)"></b><b style="transform:translateY(-3px) rotate(-45deg)"></b></i><span>Close</span></button>
@@ -868,7 +868,7 @@ html.static [data-reveal]{opacity:1;transform:none}
   <div class="wrap how pinsec" id="howPin">
     <div class="how-head">
       <span class="eyebrow" data-reveal>Bounce Fit Boots</span>
-      <h2 class="h-l how-h" data-reveal>The Bounce Fit <em style="color:var(--rose-l)">method</em></h2>
+      <h2 class="h-l how-h" data-reveal>Your Bounce Fit <em style="color:var(--rose-l)">progress</em></h2>
     </div>
     <p class="lead how-lead" data-reveal>Three levels, one journey. Start soft, grow strong, then fly. Erika guides every step.</p>
     <div class="how-l">
@@ -1132,7 +1132,7 @@ if(hasG&&!reduce){
     const stl=gsap.timeline({scrollTrigger:{trigger:'#miss',pin:true,start:'top top',end:()=>'+='+vh()*2,scrub:.6,anticipatePin:1,onToggle:pinTog}});
     phs.forEach((ph,k)=>{stl.to(ph.querySelectorAll('.w'),{opacity:1,y:0,filter:'blur(0px)',stagger:.12,duration:.6,ease:'power2.out'},k*1.4).to(sbars[k],{scaleX:1,duration:1,ease:'none'},k*1.4)});
     stl.to({},{duration:.5});
-    /* 3. The Bounce Fit method: levels */
+    /* 3. Your Bounce Fit progress: levels */
     ST.how=ScrollTrigger.create({trigger:'#howPin',pin:true,start:'top top',end:()=>'+='+vh()*2.6,anticipatePin:1,onToggle:pinTog,
       onUpdate:self=>{const n=Math.min(2,Math.floor(self.progress*2.999));if(n!==hi){hi=n;setStep(n)}}});
     /* 4. Follow us: posts travel sideways */
